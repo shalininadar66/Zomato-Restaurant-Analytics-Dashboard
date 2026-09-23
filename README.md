@@ -8,7 +8,7 @@ The dashboard is designed as a two-page analytical report with a clean light the
 
 ### Page 1 — Zomato Restaurant Analytics
 
-![Page 1 - Zomato Restaurant Analytics](page-1_dashboard.png)
+![Page 1 - Zomato Restaurant Analytics](page-1-dashboard.png)
 
 ### Page 2 — Ratings and Cost Deep Dive
 
