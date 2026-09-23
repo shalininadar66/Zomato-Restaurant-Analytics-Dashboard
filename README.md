@@ -12,7 +12,7 @@ The dashboard is designed as a two-page analytical report with a clean light the
 
 ### Page 2 — Ratings and Cost Deep Dive
 
-![Page 2 - Ratings and Cost Deep Dive](screenshots/page-2-dashboard.png)
+![Page 2 - Ratings and Cost Deep Dive](page-2-dashboard.png)
 
 ## Project Overview
 
