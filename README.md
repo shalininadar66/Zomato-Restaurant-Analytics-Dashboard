@@ -107,7 +107,6 @@ The dashboard was created using a restaurant dataset containing fields such as:
 - Longitude
 - Currency
 
-**Dataset source:** Add the original dataset/source link here if required by your college, assignment, or dataset license.
 
 > Note: The dataset contains restaurant records from multiple locations/countries and currencies. The dashboard therefore uses the available dataset values and applies appropriate filtering where required for cost analysis.
 
